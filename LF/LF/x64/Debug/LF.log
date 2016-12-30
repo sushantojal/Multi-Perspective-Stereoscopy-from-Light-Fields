@@ -1,0 +1,16 @@
+﻿  trueDisparityVolume.cpp
+c:\courses\graphics\project\mainproj\lf\lf\truedisparityvolume.h(7): fatal error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  stb_test.cpp
+  testopencv.cpp
+c:\courses\graphics\project\mainproj\lf\lf\testopencv.cpp(1): fatal error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  maxflow.cpp
+  main.cpp
+c:\courses\graphics\project\mainproj\lf\lf\main.cpp(8): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  loadTex.cpp
+  hellow.cpp
+  graph.cpp
+  DisparityVolume.cpp
+c:\courses\graphics\project\mainproj\lf\lf\disparityvolume.h(7): fatal error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  calculateMincut.cpp
+c:\courses\graphics\project\mainproj\lf\lf\calculatemincut.h(5): fatal error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  Generating Code...

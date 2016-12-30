@@ -1,0 +1,6 @@
+﻿  calculateMincut.cpp
+c:\courses\graphics\project\mainproj\lf\lf\calculatemincut.cpp(9): warning C4101: 'y': unreferenced local variable
+calculateMincut.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  LF.vcxproj -> C:\Courses\graphics\project\mainproj\LF\Debug\LF.exe
+  LF.vcxproj -> C:\Courses\graphics\project\mainproj\LF\Debug\LF.pdb (Full PDB)
